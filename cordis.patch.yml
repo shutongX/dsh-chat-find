@@ -1,0 +1,4 @@
+# dsh bundle patch: mounts the chat find host entry.
+- insert:
+    - id: chat-find
+      name: 'dsh-chat-find'
